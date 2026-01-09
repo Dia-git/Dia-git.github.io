@@ -33,9 +33,6 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 ---
 
 ## 📌Featured Data Projects 
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
-> You can check them out under the [Projects section](https://github.com/Dia-git/Data-analysis-portfolio).
-
 ### 💤 Sleep Health Data Analysis — BrainStation Capstone  
 **Tools:** SQL · Excel · Tableau  
 
@@ -43,7 +40,11 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 - Extracted and transformed data using SQL  
 - Built interactive Tableau dashboards to communicate insights clearly
 
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
+![Sleep Quality Dashboard](link-to-image)
+**Sleep Health Analysis**
+Interactive Tableau dashboards revealing lifestyle correlations with sleep metrics.
+
+> [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
 
 🔗 Repository: [https://github.com/Dia-git/sleep-health-analysis-sql-tableau](https://github.com/Dia-git/sleep-health-analysis-sql-tableau)
 
@@ -56,6 +57,13 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 - Focused on accessibility, structure, and content clarity  
 
 🔗 Repository: [https://github.com/Dia-git/bash-html-css](https://github.com/Dia-git/bash-html-css)
+
+---
+
+> #### 🚀 View My Full Data Analytics Portfolio → 
+> End-to-end analytics projects with clear problem statements, methods, and insights using **SQL, Tableau, Excel, R, and Python**.
+
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
 
 ---
 #### ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ 
