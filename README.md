@@ -33,7 +33,7 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 ---
 
 ## 📌Featured Data Projects 
-### 💤 Sleep Health Data Analysis — BrainStation Capstone  
+### 💤 Sleep Health Data Analysis | BrainStation Capstone  
 **Tools:** SQL · Excel · Tableau  
 
 - Analysed sleep and lifestyle health data to identify correlations and trends  
@@ -65,7 +65,7 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 > End-to-end analytics projects with clear problem statements, methods, and insights using **SQL, Tableau, Excel, R, and Python**.
 
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
-8
+
 ---
 #### ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ 
 ---
@@ -77,6 +77,7 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 🔗 [LinkedIn](https://www.linkedin.com/in/diananicu)
 💻 [GitHub Portfolio](https://github.com/Dia-git/Data-analysis-portfolio)
 📊 [Tableau Public](https://public.tableau.com/app/profile/diana.nicutari/vizzes)  
+📚 [DataCamp Portfolio](https://www.datacamp.com/portfolio/diananicutari)
 🧪 [Frontiers Loop](https://loop.frontiersin.org/people/851522/overview) (Publishing Specialist Profile)  
 
 ---
@@ -210,8 +211,6 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 
 - LinkedIn: [linkedin.com/in/diananicu](https://linkedin.com/in/diananicu)
 - GitHub Profile: [github.com/Dia-git](https://github.com/Dia-git)
-- DataCamp Profile: [https://www.datacamp.com/portfolio/diananicutari](https://www.datacamp.com/portfolio/diananicutari)
-
 
 ---
 
