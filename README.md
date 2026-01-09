@@ -40,9 +40,10 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 - Extracted and transformed data using SQL  
 - Built interactive Tableau dashboards to communicate insights clearly
 
-![Sleep Quality Dashboard](link-to-image)
-**Sleep Health Analysis**
-Interactive Tableau dashboards revealing lifestyle correlations with sleep metrics.
+<img width="773" height="532" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/82ff0159-b87a-401c-a56b-1e6db8e13cf2" />
+
+
+**Sleep Quality & Health Analysis** [Interactive Tableau Dashboard](https://public.tableau.com/views/Sleep_health_and_lifestyle_dataset_workbook/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) revealing lifestyle correlations with sleep metrics.
 
 > [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
 
@@ -64,7 +65,7 @@ Interactive Tableau dashboards revealing lifestyle correlations with sleep metri
 > End-to-end analytics projects with clear problem statements, methods, and insights using **SQL, Tableau, Excel, R, and Python**.
 
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
-
+8
 ---
 #### ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ ♦ ━━━ ♦ 
 ---
