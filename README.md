@@ -209,6 +209,8 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 
 - LinkedIn: [linkedin.com/in/diananicu](https://linkedin.com/in/diananicu)
 - GitHub Profile: [github.com/Dia-git](https://github.com/Dia-git)
+- DataCamp Profile: [https://www.datacamp.com/portfolio/diananicutari](https://www.datacamp.com/portfolio/diananicutari)
+
 
 ---
 
