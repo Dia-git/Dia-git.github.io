@@ -21,6 +21,7 @@ My passions lie at the intersection of **data, biology, and human health**, and 
 - 🧬 Experienced in **data-driven content strategy**, **journal analytics**, and **scientific publishing**.
 
 >🔎 View my interactive dashboards, code projects, and full CV below.
+
 ---
 
 ---
@@ -40,7 +41,9 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 
 - Analysed sleep and lifestyle health data to identify correlations and trends  
 - Extracted and transformed data using SQL  
-- Built interactive Tableau dashboards to communicate insights clearly  
+- Built interactive Tableau dashboards to communicate insights clearly
+
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
 
 🔗 Repository: [https://github.com/Dia-git/sleep-health-analysis-sql-tableau](https://github.com/Dia-git/sleep-health-analysis-sql-tableau)
 
@@ -119,11 +122,11 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 
 - Supported authors and editors throughout the peer-review and publication process for open-access research  
 - Worked closely with research in **AI, Big Data, Medicine, and Public Health**  
-- Conducted data-driven analysis of journal performance and trends  
-- Applied quality-control frameworks to ensure research scope, integrity, and standards  
+- Conducted **data-driven analysis** of journal **performance metrics** and submission trends  
+- Applied **quality-control frameworks** to ensure research scope, integrity, and standards  
 - Created reports and summaries to support editorial and strategic decision-making  
-- Coordinated complex workflows with international researchers and editorial boards
-- Assisted with market analysis and content development 
+- Coordinated complex **multi-stakeholder workflows** with international researchers, editorial boards, and internal teams
+- Assisted with **market analysis** for editorial workflow improvements and content development 
 
 ---
 
@@ -140,7 +143,7 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 **Frontiers in Plant Science & Data Portfolio | Frontiers**  
 📍 London, UK | 🗓️ Nov 2019 - Apr 2020  
 
-- Supported data tracking for commissioning campaigns   
+- Supported data tracking and reporting for commissioning campaigns and journal strategic development
 
 ---
 
@@ -148,8 +151,8 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 
 ### **BrainStation** | London  
 **Data Analyst Certification (DAC™)** | Sep 2024 – Nov 2024  
-- End-to-end analytics workflow  
-- Advanced Excel · SQL · Tableau  
+- End-to-end analytics workflow (Advanced Excel · SQL · data cleaning)
+- Interactive Tableau dashboards
 - Capstone: *Sleep Health Analysis*
 
 ---
@@ -157,7 +160,7 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 ### **University of Birmingham** | United Kingdom  
 **M.Sc. Bioinformatics** | 2018 - 2019  
 - Data Analytics & Statistical Machine Learning  
-- Genomics & Next-Generation Sequencing  
+- Genomics & Next-Generation Sequencing 
 - Metabolomics & Computational Biology  
 - Thesis: *Chromatin accessibility analysis using ATAC-seq*
 
@@ -202,6 +205,7 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/dia-git?label=Follow&style=social)](https://github.com/dia-git)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
 [![Profile Views](https://komarev.com/ghpvc/?username=dia-git&color=blueviolet)](https://github.com/dia-git)
 [![GitHub Pages](https://img.shields.io/badge/Website-Live-green?logo=github)](https://dia-git.github.io)
 
