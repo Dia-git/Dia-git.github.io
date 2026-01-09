@@ -10,7 +10,7 @@ I combine a strong background in **biological sciences** and **bioinformatics** 
 
 I recently completed an **intensive Data Analytics Certification (DAC™, BrainStation)** where I built end-to-end analytical solutions using SQL, Excel, and Tableau, including a health data capstone project.
 
-I have professional experience in open-access scientific publishing at *Frontiers in AI* and *Frontiers in Big Data*, where I support authors and editors in publishing peer-reviewed research, especially in **Medicine and Public Health**, giving me insight into research workflows, quality controls, and data interpretation.
+I have professional experience in **open-access scientific publishing** at *Frontiers in AI* and *Frontiers in Big Data*, where I support authors and editors in publishing peer-reviewed research, especially in **Medicine and Public Health**, giving me insight into research workflows, quality controls, and data interpretation.
 
 My passions lie at the intersection of **data, biology, and human health**, and I am actively applying for roles in **health data analytics, bioinformatics analysis, data scientist support, and research analytics**.
 
