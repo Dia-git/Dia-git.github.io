@@ -65,10 +65,10 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 
 📍 London, United Kingdom  
 📧 diana.nicutari@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/diananicu  
-💻 GitHub Portfolio: https://github.com/Dia-git/Data-analysis-portfolio  
-📊 Tableau Public: https://public.tableau.com/app/profile/diana.nicutari/vizzes  
-🧪 Frontiers Loop (Publishing Specialist Profile): https://loop.frontiersin.org/people/851522/overview  
+🔗 [LinkedIn](https://www.linkedin.com/in/diananicu)
+💻 [GitHub Portfolio](https://github.com/Dia-git/Data-analysis-portfolio)
+📊 [Tableau Public](https://public.tableau.com/app/profile/diana.nicutari/vizzes)  
+🧪 [Frontiers Loop](https://loop.frontiersin.org/people/851522/overview) (Publishing Specialist Profile)  
 
 ---
 
