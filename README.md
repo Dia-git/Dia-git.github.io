@@ -51,6 +51,17 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 
 ∿
 
+### 🧼 On the Importance of Handwashing | R / DataCamp Project
+
+**Tools:** R · tidyverse · ggplot2
+
+Reproduced Ignaz Semmelweis’ historical analysis to quantify the impact of handwashing on maternal mortality at the Vienna General Hospital.
+Used yearly data to compare clinics and monthly data to evaluate a before/after intervention in Clinic 1, reflecting real-world data limitations and sound analytical design.
+
+🔗 View project → https://github.com/Dia-git/datacamp-handwashing-analysis-r
+
+∿
+
 ### 🌐 HTML & CSS Portfolio Website  
 **Tools:** HTML · CSS · Bash  
 
