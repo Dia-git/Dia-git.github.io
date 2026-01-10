@@ -58,7 +58,7 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 Reproduced Ignaz Semmelweis’ historical analysis to quantify the impact of handwashing on maternal mortality at the Vienna General Hospital.
 Used yearly data to compare clinics and monthly data to evaluate a before/after intervention in Clinic 1, reflecting real-world data limitations and sound analytical design.
 
-<img width="400" height="300" alt="Monthly Death Proportion Before vs After Handwashing" src="https://github.com/user-attachments/assets/26ae046d-fa42-458c-9bdb-2ddeb1594064" />
+<img width="500" height="400" alt="Monthly Death Proportion Before vs After Handwashing" src="https://github.com/user-attachments/assets/26ae046d-fa42-458c-9bdb-2ddeb1594064" />
 
 🔗 View project → [https://github.com/Dia-git/datacamp-handwashing-analysis-r](https://github.com/Dia-git/datacamp-handwashing-analysis-r)
 
@@ -70,7 +70,7 @@ Used yearly data to compare clinics and monthly data to evaluate a before/after 
 - Built a responsive multi-page website to learn web fundamentals  
 - Focused on accessibility, structure, and content clarity  
 
-<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/4ba936c8-9cbe-4e4b-b05d-f98436db86dc" />
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/4ba936c8-9cbe-4e4b-b05d-f98436db86dc" />
 
 🔗 Repository: [https://github.com/Dia-git/bash-html-css](https://github.com/Dia-git/bash-html-css)
 
@@ -184,6 +184,7 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 
 ### **University of Birmingham** | United Kingdom  
 **M.Sc. Bioinformatics** | 2018 - 2019  
+Awarded: Pass 
 - Data Analytics & Statistical Machine Learning  
 - Genomics & Next-Generation Sequencing 
 - Metabolomics & Computational Biology  
@@ -195,6 +196,8 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 
 ### **Babeș-Bolyai University** | Romania  
 **B.Sc. Biology** | 2015 - 2018  
+Upper Second Class (**2:1**) equivalent  
+Overall average: 7.92 / 10 (top **34%** of cohort; ranked 16 / 47 students)
 - Biostatistics, Genetics, Microbiology, Cell Biology  
 - Laboratory methods (PCR, gel electrophoresis)  
 
@@ -219,6 +222,7 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 - English | Fluent  
 - Romanian | Native   
 
+### **IELTS Academic (British Council)** — Overall Band Score: 8.0
 
 ---
 
