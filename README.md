@@ -219,10 +219,10 @@ Overall average: 7.92 / 10 (top **34%** of cohort; ranked 16 / 47 students)
 ---
 
 ## 🌍 Languages
-- English | Fluent  
-- Romanian | Native   
-
-### **IELTS Academic (British Council)** — Overall Band Score: 8.0
+English | Fluent  
+• **IELTS Academic (British Council)**: Overall Band Score 8.0 (2019)  
+• **Cambridge Certificate of Proficiency in English (CPE)**: Grade B, C2 (2012)  
+Romanian | Native
 
 ---
 
