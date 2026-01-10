@@ -58,7 +58,9 @@ Seeking a **Junior Data Analyst / Junior Bioinformatics / Health Data Analytics 
 Reproduced Ignaz Semmelweis’ historical analysis to quantify the impact of handwashing on maternal mortality at the Vienna General Hospital.
 Used yearly data to compare clinics and monthly data to evaluate a before/after intervention in Clinic 1, reflecting real-world data limitations and sound analytical design.
 
-🔗 View project → https://github.com/Dia-git/datacamp-handwashing-analysis-r
+<img width="350" height="350" alt="Monthly Death Proportion Before vs After Handwashing" src="https://github.com/user-attachments/assets/26ae046d-fa42-458c-9bdb-2ddeb1594064" />
+
+🔗 View project → [https://github.com/Dia-git/datacamp-handwashing-analysis-r](https://github.com/Dia-git/datacamp-handwashing-analysis-r)
 
 ∿
 
@@ -67,6 +69,8 @@ Used yearly data to compare clinics and monthly data to evaluate a before/after 
 
 - Built a responsive multi-page website to learn web fundamentals  
 - Focused on accessibility, structure, and content clarity  
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4ba936c8-9cbe-4e4b-b05d-f98436db86dc" />
 
 🔗 Repository: [https://github.com/Dia-git/bash-html-css](https://github.com/Dia-git/bash-html-css)
 
