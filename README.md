@@ -178,7 +178,8 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 **Data Analyst Certification (DAC™)** | Sep 2024 – Nov 2024  
 - End-to-end analytics workflow (Advanced Excel · SQL · data cleaning)
 - Interactive Tableau dashboards
-- Capstone: *Sleep Health Analysis*
+- Capstone: *Sleep Health Analysis* - praised for analytical rigor, validation, and storytelling
+- One of the strongest final projects in cohort (tutor feedback)  
 
 ---
 
