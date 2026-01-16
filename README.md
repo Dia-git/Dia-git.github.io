@@ -143,7 +143,7 @@ Combines strong **analytical training (SQL, Excel, Tableau, Python, R)** with de
 
 ### **Journal Specialist**  
 **Frontiers in Artificial Intelligence & Frontiers in Big Data | Frontiers**  
-📍 London, UK | 🗓️ Sep 2020 - Jan 2025  
+📍 London, UK | 🗓️ Sep 2020 - Jan 2026 
 
 - Supported authors and editors throughout the peer-review and publication process for open-access research  
 - Worked closely with research in **AI, Big Data, Medicine, and Public Health**  
