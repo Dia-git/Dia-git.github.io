@@ -193,6 +193,9 @@ Awarded: Pass
 
 **Award:** The Masters’ Consultancy Challenge (2018/2019)
 
+**Additional responsibilities:**
+Elected Student Representative, acting as a liaison between students and academic staff, supporting communication around course delivery, feedback, and student concerns.
+
 ---
 
 ### **Babeș-Bolyai University** | Romania  
@@ -200,7 +203,9 @@ Awarded: Pass
 Upper Second Class (**2:1**) equivalent  
 Overall average: 7.92 / 10 (top **34%** of cohort; ranked 16 / 47 students)
 - Biostatistics, Genetics, Microbiology, Cell Biology  
-- Laboratory methods (PCR, gel electrophoresis)  
+- Laboratory methods (PCR, gel electrophoresis)
+- Bachelor’s thesis: _"Renal Cell Carcinoma: Conventional and Emerging Therapeutic Strategies"_
+Extended literature review conducted in collaboration with the Immunology department, focusing on mechanisms of disease, traditional treatments, and emerging therapeutic approaches, including immunotherapy concepts.
 
 ---
 
